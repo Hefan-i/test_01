@@ -7,6 +7,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium import webdriver
 import time
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.wait import WebDriverWait
 
 url='https://study.163.com/'
 driver=webdriver.Chrome("/Applications/chromedriver")
