@@ -1,4 +1,5 @@
-from selenium.webdriver.support.wait import WebDriverWait
+# -*- coding: UTF-8 -*-
+# from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 # noinspection PyUnresolvedReferences
 from selenium.webdriver.common.action_chains import ActionChains
